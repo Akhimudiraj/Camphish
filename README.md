@@ -37,7 +37,7 @@ apt-get -y install php openssh git wget
 
 ```
 https://github.com/Akhimudiraj/Camphish
-cd CamPhish
+cd 'Camphish ---Akhimudiraj'
 bash camphish.sh
 ```
 
